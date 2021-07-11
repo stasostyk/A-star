@@ -4,6 +4,8 @@ This is my go at the A* algorithm, heavily inspired by Daniel Shiffman's tutoria
 
 ![A-star Demo](demo.png?raw=true "A-star")
 
+## Check it out at https://editor.p5js.org/stasostyk/present/Pwu8JFF3Z
+
 ## What is A*?
 A* is a pathfinding algorithm which attempts to find the shortest path between two points on a grid in the least amount of time. It's complexity in big O notation is O(b^d), where b is the branching factor (the average number of successors per node).
 
