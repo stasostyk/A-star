@@ -1,27 +1,27 @@
-let cols = 50;
-let rows = 50;
-let grid = new Array(cols);
+var cols = 50;
+var rows = 50;
+var grid = new Array(cols);
 
-let openSet = [];
-let closedSet = [];
+var openSet = [];
+var closedSet = [];
 
-let start, end;
-let w, h;
+var start, end;
+var w, h;
 
-let path = [];
-let attempts = 0;
+var path = [];
+var attempts = 0;
 
-let sButton;
-let begin = false;
-let changeEnd = false;
-let clicked = false;
+var sButton;
+var begin = false;
+var changeEnd = false;
+var clicked = false;
 
-let rButton;
-let dButton;
+var rButton;
+var dButton;
 
-let spButton;
+var spButton;
 
-let slider;
+var slider;
 
 endX = rows - 1;
 endY = cols - 1;
