@@ -1,9 +1,10 @@
-### A* Algorithm
+# <p align="center">A* Algorithm: Efficient Pathfinding </p>
 
 This is my go at the A* algorithm, heavily inspired by Daniel Shiffman's tutorial on the base algorithm with the addition of interactivity.
 
+<p align="center">
 ![A-star Demo](demo.png?raw=true "A-star")
-
+</p>
 ## Check it out at https://editor.p5js.org/stasostyk/present/Pwu8JFF3Z
 
 ## What is A*?
@@ -13,6 +14,6 @@ At its core, the algorithm assesses an 'f' score to each node along the path it 
 
 ## What can it do?
 
-* Start, freeze, and restart the algorithm.
-* Modify the obstacle probability, and randomize the location of obstacles.
-* Choose a custom endpoint for the algorithm to look for.
+[x] Start, freeze, and restart the algorithm.
+[x] Modify the obstacle probability, and randomize the location of obstacles.
+[x] Choose a custom endpoint for the algorithm to look for.
