@@ -2,7 +2,10 @@
 
 This is my go at the A* algorithm, heavily inspired by Daniel Shiffman's tutorial on the base algorithm with the addition of interactivity.
 
-#<p align="center">![A-star Demo](demo.png?raw=true "A-star")</p>
+<p align="center">
+  <img src="demo.png">
+</p>
+
 ## Check it out at https://editor.p5js.org/stasostyk/present/Pwu8JFF3Z
 
 ## What is A*?
