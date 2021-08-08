@@ -15,6 +15,6 @@ At its core, the algorithm assesses an 'f' score to each node along the path it 
 
 ## What can it do?
 
-[x] Start, freeze, and restart the algorithm.
-[x] Modify the obstacle probability, and randomize the location of obstacles.
-[x] Choose a custom endpoint for the algorithm to look for.
+* Start, freeze, and restart the algorithm.
+* Modify the obstacle probability, and randomize the location of obstacles.
+* Choose a custom endpoint for the algorithm to look for.
